@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\My Folder\Script\Spawner.js">
+    <Files>
+      <File FileName="Assets\My Folder\Script\GenerationBlock.cs" Line="22" Column="1" />
+      <File FileName="Assets\My Folder\Script\Spawner.js" Line="6" Column="17" />
+      <File FileName="Assets\My Folder\Script\Scripts\JavaScripts\Car.js" Line="89" Column="1" />
+      <File FileName="Assets\My Folder\Script\Score.cs" Line="13" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
